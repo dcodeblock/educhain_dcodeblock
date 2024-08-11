@@ -2,7 +2,7 @@
 GM reader, hope you are doing great.
 We know that the project rules required us to share the project details and show the recent commit history plus building the project from scratch.
 
-1) We have built this in the month of August from 1st - 5th August. Checking our socials, you would see that we have released the version 1 of DCB in July Start which looks nothing likes .
+1) We have built this in the month of August from 1st - 5th August. Checking our socials, you would see that we have released the version 1 of DCB in July Start which looks nothing likes . Also, we going live with this version by 20th of August and look to integrate 10+ EVM compatible chains.
 2) Furthermore, our codebase contains sensitive code files which prohibit us from sharing the code.
 3) Thanks for understanding if you have read till here.
 4) Hope you vibe with DcodeBlock.
